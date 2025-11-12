@@ -200,7 +200,7 @@ empty_tuple = ()
 empty_tuple = tuple()
 
 #Empty Sets 
-empty_set = {} this isn't correct its create empty dict
+empty_set = {} #this isn't correct its create empty dict
 empty_set = set()
 
 

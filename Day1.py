@@ -39,3 +39,7 @@ print(text)
 print(dir(name))
 print(help(str.lower))
 
+
+
+
+

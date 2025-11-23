@@ -46,7 +46,7 @@ print("""\
     """)
 
 
-print(3* 'san' 'jeeta')
+print(3* 'Dip' 'esh')
 
 pr = 'py'
 print(pr +'thon')

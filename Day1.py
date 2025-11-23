@@ -39,7 +39,26 @@ print(text)
 print(dir(name))
 print(help(str.lower))
 
+print("""\
+    Hi babe: love you babe
+    -hi
+    -hii
+    """)
 
 
+print(3* 'san' 'jeeta')
+
+pr = 'py'
+print(pr +'thon')
+
+
+pt = "python"
+print(pt[-1])
+
+
+a,b = 0,1
+while a <10 :
+    print(a)
+    a,b = b,a+b
 
 
